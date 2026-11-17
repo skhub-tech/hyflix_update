@@ -1,7 +1,7 @@
 {
   "app_update": {
-    "version_code": 2,
-    "version_name": "1.1.0",
+    "version_code": 1,
+    "version_name": "1.0.0",
     "title": "HyFlix Update Available 🚀",
     "description": "• Ultra-fast high-speed streaming\n• Multi-episode batch download engine\n• Authentic True Liquid Glass dock\n• Bug fixes and stability improvements",
     "download_url": "https://github.com/skhub-tech/hyflix_update/releases",
