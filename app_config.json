@@ -8,7 +8,7 @@
     "tv_download_url": "https://github.com/skhub-tech/hyflix_update/releases/download/v1.0.2/HyFlix-v1.0.2-Android-TV-FireStick.apk",
     "direct_download": false,
     "button_text": "Update Now",
-    "force_update": false
+    "force_update": true
   },
   "adsterra_monetization": {
     "enabled": true,
